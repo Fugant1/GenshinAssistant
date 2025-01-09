@@ -13,6 +13,9 @@ def analisa_artefato():
 def analisa_eventos():
     ''
 
+def analisa_personagem():
+    ''
+
 def main():
     UID_player = int(input('Informe seu UID: '))
     while True:
