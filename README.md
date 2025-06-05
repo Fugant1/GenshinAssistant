@@ -1,2 +1,2 @@
 # Genshin_Assistant
-Programa para auxiliar a gameplay no jogo genshin impact
+Unfinished software to help people playing the game Genshin Impact
